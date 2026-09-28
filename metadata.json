@@ -1,0 +1,6 @@
+{
+  "name": "HELIOS Command Center",
+  "description": "Smart India Hackathon live command center for multi-layer wildfire hazard detection with real-time sensor fusion telemetry and autonomous UAV response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
