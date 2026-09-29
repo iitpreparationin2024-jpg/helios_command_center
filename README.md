@@ -5,7 +5,6 @@ THE DASHBOARD ALSO CONTAINS A THE HARDWARE DUMPABLE CODE THAT WE WILL BE USING
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/2bbebc26-4c92-49fd-95cd-6f78b57bfbf9
 
 ## Run Locally
 
